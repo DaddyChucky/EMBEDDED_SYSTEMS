@@ -10,7 +10,3 @@
 - Charles De Lafontaine
 - Geneviève Pelletier-Mc Duff
 - Matis Grégoire
-
-COPYRIGHT: 
-© DE LAFONTAINE, Charles, PELLETIER-MC DUFF, Geneviève, and Matis GRÉGOIRE. All Rights Reserved. Any distribution, idea or code replica, is strictly prohibited.
-
